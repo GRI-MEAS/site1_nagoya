@@ -8,9 +8,14 @@ li {
 
 .header {
   background-color: #26d0c9;
-  font-size: 90px;
   color: #fff;
   height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 100px;
+  padding: 20px 40px;
 }
 
 .main {
