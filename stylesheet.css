@@ -20,14 +20,20 @@ li {
 
 .main-tag1 {
   float: left;
-  font-size: 50px;
+  font-size: 70px;
+  padding: 20px 40px;
+
 }
 
 .main-tag2 {
   float: left;
-  font-size: 50px;
+  font-size: 70px;
+  padding: 20px 40px;
+
 }
 .main-tag3 {
   float: left;
-  font-size: 50px;
+  font-size: 70px;
+  padding: 20px 40px;
+
 }
