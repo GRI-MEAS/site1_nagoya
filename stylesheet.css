@@ -22,7 +22,7 @@ li {
   float: left;
   font-size: 60px;
   padding: 20px 40px;
-  Color: #0000ff;
+  color: #0000ff;
 
 }
 
@@ -30,11 +30,11 @@ li {
   float: left;
   font-size: 60px;
   padding: 20px 40px;
-  Color: #ff0000;
+  color: #ff0000;
 }
 .main-tag3 {
   float: left;
   font-size: 60px;
   padding: 20px 40px;
-  Color: #008000;
+  color: #008000;
 }
