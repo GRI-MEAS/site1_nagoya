@@ -20,20 +20,21 @@ li {
 
 .main-tag1 {
   float: left;
-  font-size: 70px;
+  font-size: 60px;
   padding: 20px 40px;
+  Color: #0000ff
 
 }
 
 .main-tag2 {
   float: left;
-  font-size: 70px;
+  font-size: 60px;
   padding: 20px 40px;
-
+  Color: #ff0000
 }
 .main-tag3 {
   float: left;
-  font-size: 70px;
+  font-size: 60px;
   padding: 20px 40px;
-
+  Color: #008000
 }
