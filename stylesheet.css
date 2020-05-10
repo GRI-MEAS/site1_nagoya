@@ -18,23 +18,3 @@ li {
   padding: 20px 40px;
 }
 
-.main-tag1 {
-  float: left;
-  font-size: 60px;
-  padding: 20px 40px;
-  color: #0000ff;
-
-}
-
-.main-tag2 {
-  float: left;
-  font-size: 60px;
-  padding: 20px 40px;
-  color: #ff0000;
-}
-.main-tag3 {
-  float: left;
-  font-size: 60px;
-  padding: 20px 40px;
-  color: #008000;
-}
