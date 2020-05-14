@@ -15,6 +15,9 @@ body {
 }
 
 .main-tag1 {
+  position:relative
+  top: 50px;
+  left: 50px;
   float : left;
   font-size: 50px;
   color: #0000FF;
